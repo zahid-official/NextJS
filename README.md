@@ -29,5 +29,4 @@ This is a simple blog viewer application built using Next.js. It demonstrates ho
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/blog-viewer-app.git
-cd blog-viewer-app
+git clone https://github.com/zahid-official/NextJS.git
